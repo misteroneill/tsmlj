@@ -1,0 +1,30 @@
+{
+  "name": "tsmlj",
+  "version": "0.0.0",
+  "description": "ES6 template string tag for joining multi-line blocks of text with a single space.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misteroneill/tsmlj.git"
+  },
+  "keywords": [
+    "template",
+    "templatestring",
+    "es6",
+    "multi-line",
+    "sentence"
+  ],
+  "author": {
+    "name": "Pat O'Neill",
+    "email": "pgoneill@gmail.com",
+    "url": "http://misteroneill.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/misteroneill/tsmlj/issues"
+  },
+  "homepage": "https://github.com/misteroneill/tsmlj#readme"
+}
