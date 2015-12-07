@@ -1,6 +1,6 @@
 {
   "name": "tsmlj",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ES6 template string tag for joining multi-line blocks of text with a single space.",
   "main": "index.js",
   "scripts": {
